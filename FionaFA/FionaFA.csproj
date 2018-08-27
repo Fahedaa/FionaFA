@@ -380,7 +380,7 @@
     <Content Include="images\image_8.jpg" />
     <Content Include="images\image_9.jpg" />
     <Content Include="images\image_about.jpg" />
-    <Content Include="images\index.html" />
+    <Content Include="scripts\index.html" />
     <Content Include="images\loader.gif" />
     <Content Include="images\loc.png" />
     <Content Include="packages.config" />
